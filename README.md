@@ -1,2 +1,2 @@
-# zero_copy
+# zero-copy
 Zero copy library derived from polynetwork codebase.
